@@ -8,7 +8,7 @@ public class HelloController {
 
 	@RequestMapping("/")
 	public String index() {
-		return "Greetings from VMware Tanzu!";
+		return "Greetings from VMware Tanzu Application Platform!";
 	}
 
 }
