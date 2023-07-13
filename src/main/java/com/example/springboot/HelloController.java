@@ -8,7 +8,7 @@ public class HelloController {
 
 	@RequestMapping("/")
 	public String index() {
-		return "Greetings from VMware TAP + Unisuper!";
+		return "Greetings from VMware TAP!";
 	}
 
 }
